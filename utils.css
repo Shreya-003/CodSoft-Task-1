@@ -1,0 +1,93 @@
+.min-h-screen{
+   min-height: 100vh;
+}
+
+.bg-red{
+   background-color: red;
+}
+
+.flex{
+   display: flex;
+}
+
+.items-center{
+   align-items: center;
+}
+
+.justify-between{
+   justify-content: space-between;
+}
+
+.justify-center{
+   justify-content: center;
+}
+
+.flex-col{
+   flex-direction: column;
+}
+
+.font-bold{
+   font-weight: bolder;
+}
+
+.my-1{
+   margin-top: 13px;
+   margin-bottom: 13px;
+}
+
+.my-2{
+   font-weight: bold;
+   font-size: large;
+   margin-top: 26px;
+   margin-bottom: 26px;
+}
+
+.px-2{
+   padding-left: 13px;
+   padding-right: 13px;
+}
+
+.text-black{
+   color: black;
+}
+
+.btn{
+   padding:7px 12px;
+   border: 2px solid white;
+   border-radius: 6px;
+   cursor: pointer;
+   color: white;
+   background-color: rgb(111, 97, 149);
+}
+
+.overflow-x-hidden{
+   overflow-x: hidden;
+}
+
+.text-center{
+   text-align: center;
+}
+
+.bg-mycolor{
+   background-color: rgb(149, 137, 181);
+}
+
+.bg-main{
+   background-color: rgb(189, 184, 201);
+}
+
+.form-floating{
+   position: relative;
+}
+
+.form-contorl{
+   padding: 1rem 0.75rem;
+}
+
+.form-check{
+   display: block;
+   min-height: 1.5rem;
+   padding-left: 1.5rem;
+   margin-bottom: 0.125rem;
+}
+
